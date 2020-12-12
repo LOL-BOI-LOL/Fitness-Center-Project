@@ -5,13 +5,15 @@
   text-align:center;
 }
 #nav ul {
-  margin-left: -2.5em;
+  margin-left: -3em;
+  margin-right: -3em;
 }
 #nav li {
   list-style-type: none;
   text-align: justify;
   float: left;
   background-color: black;
+  width:25%;
 }
 #nav a {
   text-decoration: none;

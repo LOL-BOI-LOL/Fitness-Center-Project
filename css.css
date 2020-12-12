@@ -11,6 +11,7 @@
   list-style-type: none;
   text-align: justify;
   float: left;
+  background-color: black;
 }
 #nav a {
   text-decoration: none;
@@ -20,7 +21,6 @@
   font-size: 150%;
   font-weight: bold;
   color: white;
-  background-color: black;
 }
 #nav a:hover {
   color:blue;

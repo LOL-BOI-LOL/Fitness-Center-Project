@@ -1,6 +1,3 @@
-#body {
-  background-color:rgba(245,245,245,1);
-}
 #header {
   text-align:center;
   font-size:4.54545455vw;
@@ -40,4 +37,7 @@
 }
 #benefits {
   width:32.7586207%;
+}
+#head {
+  background-color:black; //rgba(245,245,245,1)
 }

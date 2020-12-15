@@ -63,5 +63,10 @@ body {
 #benefitsexplaination {
   text-align:center;
   font-family:"Times New Roman",Times,serif;
-  font-size: 2vw;
+  font-size:1.5vw;
+}
+#benefitsheader {
+  text-align:center;
+  font-family:"Times New Roman",Times,serif;
+  font-size:2vw;
 }

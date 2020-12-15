@@ -82,10 +82,9 @@ body {
   margin-top:0em;
   margin-bottom:0em;
   float: left;
-  display: inline;
+  display: inline-block;
 }
 #exerciseimg {
   float: right;
-  display: inline;
-  width: 50%;
+  display: inline-block;
 }

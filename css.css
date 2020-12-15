@@ -68,5 +68,8 @@ body {
 #benefitsheader {
   text-align:center;
   font-family:"Times New Roman",Times,serif;
-  font-size:2vw;
+  font-size:3vw;
+  margin-top:0em;
+  margin-bottom:0em;
+  font-weight:bold;
 }

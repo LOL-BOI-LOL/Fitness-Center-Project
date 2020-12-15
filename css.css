@@ -1,6 +1,7 @@
 #header {
   text-align:center;
   font-size:4.54545455vw;
+  font-family: "Times New Roman", Times, serif;
 }
 #nav ul {
   margin-left: -3em;
@@ -22,6 +23,7 @@
   font-size:1.85185185vw;
   padding-top:0.6em;
   padding-bottom:0.6em;
+  font-family: "Times New Roman", Times, serif;
 }
 #nav a:hover {
   color:blue;
@@ -44,4 +46,5 @@ body {
 #services {
   text-align:center;
   font-size:2vw
+  font-family: "Times New Roman", Times, serif;
 }

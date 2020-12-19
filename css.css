@@ -106,3 +106,11 @@ body {
 #head {
   background-image:linear-gradient(135deg,rgba(0, 134, 179, 1),rgba(196, 77, 255, 1)); 
 }
+#callout {
+  text-align:center;
+  font-family:"Times New Roman",Times,serif;
+  font-size:2vw;
+  margin-top:0em;
+  margin-bottom:0em;
+  color:rgba(17, 17, 34,1);
+}

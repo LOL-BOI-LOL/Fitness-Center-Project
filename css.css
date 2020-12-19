@@ -114,4 +114,7 @@ body {
   margin-bottom:0em;
   background-color:rgba(17, 17, 34,1);
   color:white;
+  position:fixed;
+  width:100%;
+  bottom:0;
 }

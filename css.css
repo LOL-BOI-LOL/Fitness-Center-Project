@@ -112,5 +112,6 @@ body {
   font-size:2vw;
   margin-top:0em;
   margin-bottom:0em;
-  color:rgba(17, 17, 34,1);
+  background-color:rgba(17, 17, 34,1);
+  color:white;
 }

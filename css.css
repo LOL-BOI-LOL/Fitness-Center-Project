@@ -77,6 +77,7 @@ body {
   margin-top:0em;
   margin-bottom:0em;
   color:rgba(0, 0, 102, 0.7);
+  border-radius:20px;
 }
 #benefitsheader {
   text-align:center;
